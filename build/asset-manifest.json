@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Group-h/build/static/css/main.b7391a51.chunk.css",
+    "main.js": "/Group-h/build/static/js/main.e4cef57b.chunk.js",
+    "main.js.map": "/Group-h/build/static/js/main.e4cef57b.chunk.js.map",
+    "runtime~main.js": "/Group-h/build/static/js/runtime~main.b8e034a8.js",
+    "runtime~main.js.map": "/Group-h/build/static/js/runtime~main.b8e034a8.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/Group-h/build/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.c93cd3f8.chunk.js": "/Group-h/build/static/js/2.c93cd3f8.chunk.js",
+    "static/js/2.c93cd3f8.chunk.js.map": "/Group-h/build/static/js/2.c93cd3f8.chunk.js.map",
+    "index.html": "/Group-h/build/index.html",
+    "precache-manifest.9676e058c8cb45b79fb8b71809bf5399.js": "/Group-h/build/precache-manifest.9676e058c8cb45b79fb8b71809bf5399.js",
+    "service-worker.js": "/Group-h/build/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/Group-h/build/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.b7391a51.chunk.css.map": "/Group-h/build/static/css/main.b7391a51.chunk.css.map"
+  }
+}
