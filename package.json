@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
-    "terser": "^3.14.1"
+    "terser": "^4.8.1"
   },
   "description": "Here is the video link of the live demo of our developed fron-end website:",
   "main": "server.js",
